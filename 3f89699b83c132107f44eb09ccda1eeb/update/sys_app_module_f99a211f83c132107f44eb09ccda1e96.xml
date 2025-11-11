@@ -13,7 +13,7 @@
         <mobile_title>All</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_wishlist_wish_item</name>
-        <order>3</order>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f99a211f83c132107f44eb09ccda1e96</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="WishList" source="x_snc_wishlist">3f89699b83c132107f44eb09ccda1eeb</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="WishList">3f89699b83c132107f44eb09ccda1eeb</sys_scope>
         <sys_update_name>sys_app_module_f99a211f83c132107f44eb09ccda1e96</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-11-11 20:09:53</sys_updated_on>
+        <sys_updated_on>2025-11-11 22:17:32</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>
