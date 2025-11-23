@@ -1,4 +1,4 @@
 # wishlist
 Wish List Application
 
-Release v1.0.0
+Release v0.1.2
